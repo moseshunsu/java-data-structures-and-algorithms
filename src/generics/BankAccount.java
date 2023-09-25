@@ -1,7 +1,5 @@
 package generics;
 
-import java.util.Arrays;
-
 public class BankAccount<T> {
 
     T t1;
