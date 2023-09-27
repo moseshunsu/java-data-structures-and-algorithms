@@ -1,4 +1,4 @@
-package arrays.geeksForGeeksChallenge;
+package geeksForGeeksChallenge;
 
 import java.util.ArrayList;
 
