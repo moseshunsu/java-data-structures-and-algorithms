@@ -1,4 +1,4 @@
-package linkedinList.doublyLinkedList;
+package linkedinList.doubly.doublyLinkedList;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,13 +8,13 @@ public class Main {
         dll.insertDLL(3, 1);
         dll.insertDLL(4, 7);
         System.out.println(dll.head.next.value);
-        dll.traversDLL();
+        dll.traverseDLL();
 //        dll.reverseTraverseDLL();
 //        dll.searchNode(4);
 //        dll.searchNode(7);
         dll.deleteNodeDLL(2);
-        dll.traversDLL();
+        dll.traverseDLL();
         dll.deleteDLL();
-        dll.traversDLL();
+        dll.traverseDLL();
     }
 }

@@ -1,4 +1,4 @@
-package linkedinList.circularSinglyLinkedList;
+package linkedinList.singly.singlyLinkedList;
 
 public class Node {
     public int value;

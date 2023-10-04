@@ -1,4 +1,4 @@
-package linkedinList.circularDoublyLinkedList;
+package linkedinList.doubly.doublyLinkedList;
 
 public class DoublyNode {
     public int value;

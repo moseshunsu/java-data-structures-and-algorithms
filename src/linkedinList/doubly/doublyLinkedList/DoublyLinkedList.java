@@ -1,4 +1,4 @@
-package linkedinList.doublyLinkedList;
+package linkedinList.doubly.doublyLinkedList;
 
 public class DoublyLinkedList {
     DoublyNode head;
@@ -55,7 +55,7 @@ public class DoublyLinkedList {
     }
 
     // Traverse DLL
-    public void traversDLL() {
+    public void traverseDLL() {
         if (head == null) {  // O(1)
             System.out.println("DLL does not exist");
             return;

@@ -1,4 +1,4 @@
-package linkedinList.singlyLinkedList;
+package linkedinList.singly.singlyLinkedList;
 
 public class Main {
     public static void main(String[] args) {
