@@ -1,4 +1,4 @@
-package linkedinList.singly.singlyLinkedList;
+package linkedList.singly.singlyLinkedList;
 
 public class SinglyLinkedList {
     public Node head;

@@ -1,4 +1,4 @@
-package linkedinList.doubly.circularDoublyLinkedList;
+package linkedList.doubly.circularDoublyLinkedList;
 
 public class Main {
     public static void main(String[] args) {

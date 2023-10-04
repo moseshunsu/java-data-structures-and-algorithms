@@ -1,4 +1,4 @@
-package linkedinList.doubly.doublyLinkedList;
+package linkedList.doubly.doublyLinkedList;
 
 public class DoublyNode {
     public int value;
